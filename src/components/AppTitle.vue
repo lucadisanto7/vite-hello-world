@@ -3,11 +3,11 @@ export default {
     
 }
 </script>
-<template lang="">
+<template>
     <div>
         <h1>La mia prima app con Vite!</h1>
     </div>
 </template>
-<style lang="">
+<style>
     
 </style>
